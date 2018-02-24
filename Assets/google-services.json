@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "144526085145",
+    "firebase_url": "https://fbsdem.firebaseio.com",
+    "project_id": "fbsdem",
+    "storage_bucket": "fbsdem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144526085145:android:395a769c5753d123",
+        "android_client_info": {
+          "package_name": "com.curio.fbxdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144526085145-iu1f6kosab6orj8640ljccv7409podvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeOb1jf6c9UJXF8Vz-v5vJL4WIE4AizQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
